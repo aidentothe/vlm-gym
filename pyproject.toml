@@ -39,7 +39,7 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/aidentothe/vlm-gym"
+Repository = "https://github.com/aidenhuang/vlm-gym"
 
 [tool.setuptools]
 packages = ["vlmrl.core", "vlmrl.envs", "vlmrl.models", "vlmrl.utils"]
